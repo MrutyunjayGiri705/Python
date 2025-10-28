@@ -1,5 +1,0 @@
-print("Hey I am a good boy \n My name is Mrutyunjay ")
-print("Hey I am a good boy \" My name is Mrutyunjay\" ")
-print("Hey I am a good boy \' My name is Mrutyunjay\'")
-print("Mrutyunjay",6,7,sep="~")
-print("Mrutyunjay",6,7,sep="~" ,end="001\n")
